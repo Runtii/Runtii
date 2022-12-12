@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Runtii
+- I'm 23 years-old.
+- I hav degree in IT engineering from Lublin University of Technology.
+- Currently studying IT for a master's degree at Lublin University of Technology.
 - 👀 I’m interested in gaming, history and programming
 - 🌱 I’m currently learning JavaScript on ReactJS framework and I'm studying IT on Lublin University of Technology as for masters degree.
 - 💞️ I’m looking to collaborate on JS projects
