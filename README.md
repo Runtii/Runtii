@@ -13,7 +13,7 @@
 
 - 📫 Reach me -> **albertto.ap@gmail.com**
 
-- My portfolio : [**www.runtii.github.io**](https://runtii.github.io/)
+- My portfolio -> [**www.runtii.github.io**](https://runtii.github.io/)
 
 - I have degree in IT engineering from Lublin University of Technology.
 - Currently studying IT for a master's degree at Lublin University of Technology.
