@@ -1,5 +1,3 @@
-My portfolio : [www.runtii.github.io](https://runtii.github.io/)
-
 [![MasterHead](https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/fireflies.gif)](runtii.github.io)
 
 <h1 align="center">Hi! I'm Albert Poniedziałek</h1> 
@@ -14,6 +12,8 @@ My portfolio : [www.runtii.github.io](https://runtii.github.io/)
 - 💬 Ask about **Web Development**
 
 - 📫 Reach me -> **albertto.ap@gmail.com**
+
+- My portfolio : [**www.runtii.github.io**](https://runtii.github.io/)
 
 - I have degree in IT engineering from Lublin University of Technology.
 - Currently studying IT for a master's degree at Lublin University of Technology.
