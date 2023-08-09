@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Runtii&style=plastic&label=Wyświetlenia&color=e83225" alt="Runtii" /> </p>
+
 - 👋 Hi, I’m @Runtii
 - I'm 23 years-old.
 - I have degree in IT engineering from Lublin University of Technology.
