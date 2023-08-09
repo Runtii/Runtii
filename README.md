@@ -1,7 +1,5 @@
 My portfolio : [www.runtii.github.io](https://runtii.github.io/)
 
-[![MasterHead](https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/fireflies.gif)](runtii.github.io)
-
 <h1 align="center">I'm Albert Poniedziałek</h1> 
 <h3 align="center">Aspiring web developer</h3>
 
