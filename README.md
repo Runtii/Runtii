@@ -3,9 +3,15 @@
 <h1 align="center">Hi! I'm Albert Poniedziałek</h1> 
 <h3 align="center">I'm aspiring web developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-<p align="left" style="margin-left: 20px"> <img src="https://komarev.com/ghpvc/?username=Runtii&style=plastic&label=Profile+Views&color=e83225" alt="Runtii" /> </p>
+<p align="center" style="margin-left: 20px">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<br/>
+
+ <img align="center" src="https://komarev.com/ghpvc/?username=Runtii&style=plastic&label=Profile+Views&color=e83225" alt="Runtii" /> </p>
 
 - 🌱 I’m currently learning JavaScript on ReactJS framework and I'm studying IT on Lublin University of Technology as for masters degree.
 
