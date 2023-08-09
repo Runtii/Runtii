@@ -89,4 +89,4 @@ Other:
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Runtii&show_icons=true&locale=en&theme=cobalt2&hide_border=true" alt="Runtii" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Runtii&theme=cobalt2&hide_border=true" alt="Runtii" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Runtii&theme=cobalt2&hide_border=true&border_radius=5" alt="Runtii" /></p>
