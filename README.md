@@ -6,7 +6,7 @@
 <p align="center" style="margin-left: 20px">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br/>
+<br/><br/>
 
  <img align="center" src="https://komarev.com/ghpvc/?username=Runtii&style=plastic&label=Profile+Views&color=e83225" alt="Runtii" /> 
  </p>
