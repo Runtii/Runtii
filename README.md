@@ -9,7 +9,7 @@
 - 👀 I’m interested in gaming, history and programming
 - 🌱 I’m currently learning JavaScript on ReactJS framework and I'm studying IT on Lublin University of Technology as for masters degree.
 - 📫 How to reach me: my e-mail address - albertto.ap@gmail.com
-- 
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Runtii&show_icons=true&locale=en&layout=compact&theme=cobalt2&hide_border=true" alt="Runtii" /></p>
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Runtii&show_icons=true&locale=en&theme=cobalt2&hide_border=true" alt="Runtii" /></p>
