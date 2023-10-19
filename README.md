@@ -13,14 +13,12 @@
 
 - 🌱 I’m currently learning JavaScript on ReactJS framework and TypeScript on Angular framework.
 
-- 💬 Ask about **Web Development**
-
 - 📫 Reach me -> **albertto.ap@gmail.com**
 
 - My portfolio -> [**www.runtii.github.io**](https://runtii.github.io/)
 
 - I have masters degree in IT engineering from Lublin University of Technology.
-- 👀 I’m interested in gaming, history and programming
+- 👀 I’m interested in gaming, history, programming and anime.
 
 <h3 align="left">Connect with me:</h3>
 
