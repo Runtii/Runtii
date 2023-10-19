@@ -11,7 +11,7 @@
  <img align="center" src="https://komarev.com/ghpvc/?username=Runtii&style=plastic&label=Profile+Views&color=e83225" alt="Runtii" /> 
  </p>
 
-- 🌱 I’m currently learning JavaScript on ReactJS framework and I'm studying IT on Lublin University of Technology as for masters degree.
+- 🌱 I’m currently learning JavaScript on ReactJS framework and TypeScript on Angular framework.
 
 - 💬 Ask about **Web Development**
 
@@ -19,8 +19,7 @@
 
 - My portfolio -> [**www.runtii.github.io**](https://runtii.github.io/)
 
-- I have degree in IT engineering from Lublin University of Technology.
-- Currently studying IT for a master's degree at Lublin University of Technology.
+- I have masters degree in IT engineering from Lublin University of Technology.
 - 👀 I’m interested in gaming, history and programming
 
 <h3 align="left">Connect with me:</h3>
